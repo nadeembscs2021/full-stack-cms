@@ -1,4 +1,4 @@
-# Lama Dev College Management Dashboard
+# College Management Dashboard
 
 ## Getting Started
 
