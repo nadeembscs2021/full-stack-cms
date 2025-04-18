@@ -271,7 +271,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "E:\\𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗯𝘆 𝗔𝗽𝗻𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲\\My-Projects\\CMS\\prisma\\generated",
+      "value": "E:\\𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗯𝘆 𝗔𝗽𝗻𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲\\My-Projects\\CMS-2\\prisma\\generated",
       "fromEnvVar": null
     },
     "config": {
@@ -285,7 +285,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "E:\\𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗯𝘆 𝗔𝗽𝗻𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲\\My-Projects\\CMS\\prisma\\schema.prisma",
+    "sourceFilePath": "E:\\𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗯𝘆 𝗔𝗽𝗻𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲\\My-Projects\\CMS-2\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
@@ -303,7 +303,7 @@ const config = {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "postgresql://neondb_owner:npg_ad9DWHtnU4zG@ep-steep-brook-a56xqq2a-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require"
+        "value": "postgresql://neondb_owner:npg_0Q6PCMlANOqk@ep-square-silence-a4sywd6x-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require"
       }
     }
   },
